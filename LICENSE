@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2026 andrei72z
+Copyright (c) 2022 Florian Schmid
+(EfficientAT, https://github.com/fschmid56/EfficientAT;
+sound_mn10.onnx is mn10_as converted to ONNX)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
